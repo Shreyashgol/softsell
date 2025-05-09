@@ -6,7 +6,6 @@ Tech Stack:
  - Styling: Tailwind CSS
  - Animations: Framer Motion
  - Form Validation: Basic frontend (React state)
- - Hosting: (To be deployed on Vercel/Netlify)
  - SEO: Optimized meta tags & Open Graph
 
 Features:
