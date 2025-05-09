@@ -1,5 +1,3 @@
-SoftSell — One-Page Marketing Site
-
 Description:
 SoftSell is a responsive, single-page React application built for a fictional software resale company. The site showcases a clean design, intuitive layout, and dynamic user experience — ideal for startups looking to quickly market their service.
 
