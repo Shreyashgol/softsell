@@ -1,12 +1,29 @@
-# React + Vite
+SoftSell — One-Page Marketing Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:
+SoftSell is a responsive, single-page React application built for a fictional software resale company. The site showcases a clean design, intuitive layout, and dynamic user experience — ideal for startups looking to quickly market their service.
 
-Currently, two official plugins are available:
+Tech Stack:
+ - Framework: React + Vite
+ - Styling: Tailwind CSS
+ - Animations: Framer Motion
+ - Form Validation: Basic frontend (React state)
+ - Hosting: (To be deployed on Vercel/Netlify)
+ - SEO: Optimized meta tags & Open Graph
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+ - Responsive Design — Mobile-friendly layout with modern UI
+ - Hero Section — Clear headline, subtext, and CTA
+ - How It Works — 3-step visual process
+ - Why Choose Us — Highlighted advantages with icons
+ - Customer Testimonials — 2 sample reviews with names and roles
+ - Contact Form — Includes name, email, company, license type, and message
+ - Smooth Animations — Fade and motion effects for engagement
+ - SEO Ready — Meta tags for better discoverability
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+<img width="1361" alt="Screenshot 2025-05-09 at 2 59 45 PM" src="https://github.com/user-attachments/assets/ca49ff9a-c21f-4c1a-94b5-b6dd5506b89e" />
+
+<img width="1222" alt="Screenshot 2025-05-09 at 3 00 02 PM" src="https://github.com/user-attachments/assets/ea55c28b-9847-41ad-bba9-225da966db5a" />
+
